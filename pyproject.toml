@@ -38,6 +38,7 @@ dependencies = [
   "httpx>=0.22.0,<1.0",
   "hypothesis>=6.108.0,<7",
   "hypothesis_graphql>=0.11.1,<1",
+  "graphql-core>=3.2.0,<3.3.0",
   "hypothesis_jsonschema>=0.23.1,<0.24",
   "jsonschema[format]>=4.18.0,<5.0",
   "junit-xml>=1.9,<2.0",
